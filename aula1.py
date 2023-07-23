@@ -27,3 +27,6 @@ df_filtrado2 = df[df['Idade'] >= 30]
 print(f'Exemplo filtrando utiliando diretamente o dataframe\n{df_filtrado2}\n---------------')
 
 print('Criando um novo branch para testes')
+
+#Parte do codigo para testar a nova branch
+print('Adicionando o print na tela para testar com a nwBranch2')
