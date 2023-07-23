@@ -25,3 +25,4 @@ print(f"Data frame final filtrado\n {df_filtrado}\n----------------")
 df_filtrado2 = df[df['Idade'] >= 30]
 
 print(f'Exemplo filtrando utiliando diretamente o dataframe\n{df_filtrado2}\n---------------')
+print('Alteracao no arquivo para git teste')
